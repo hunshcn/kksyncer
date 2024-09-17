@@ -9,7 +9,7 @@ It may help you if you want to use [Custom Scheduler Plugin](https://github.com/
 ## How to use
 
 ```go.mod
-# in go.mod, 
+// in go.mod 
 require (
     k8s.io/kubernetes v1.29.0
 )
